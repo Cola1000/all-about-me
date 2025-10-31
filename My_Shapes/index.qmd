@@ -1,7 +1,7 @@
 # UTS-4 My SHAPE
 ---
 
-## 0) Ringkasan 1 Halaman
+## Ringkasan 1 Halaman
 
 **Peran Inti:** Kreator–Visioner yang menjembatani seni, teknologi, dan empati melalui ilustrasi, cerita, dan eksplorasi digital.  
 **Misi:** Menyalurkan pelajaran hidup dan keindahan momen manusiawi melalui karya yang menggerakkan refleksi diri dan pemahaman lintas perspektif.  
@@ -18,7 +18,7 @@
 
 ---
 
-## 1) S — Spiritual Gifts (Karunia Rohani)
+## S — Spiritual Gifts (Karunia Rohani)
 
 * **Creativity (Kreativitas):** menciptakan karya yang mengandung kejutan emosional dan membuka perspektif baru bagi penontonnya.  
 * **Empathy & Helping:** membantu orang melewati kesulitan, baik melalui karya maupun kehadiran yang menenangkan.  
@@ -28,7 +28,7 @@
 
 ---
 
-## 2) H — Heart (Minat, Nilai, Kepedulian)
+## H — Heart (Minat, Nilai, Kepedulian)
 
 * **Tema utama:** Self-discovery dan keindahan momen kehidupan.  
 * **Nilai pribadi:** Keinginan agar orang memahami diri dan orang lain lewat pengalaman estetis dan emosional.  
@@ -39,7 +39,7 @@
 
 ---
 
-## 3) A — Abilities (Kemampuan Andal)
+## A — Abilities (Kemampuan Andal)
 
 * **Kreatif:** menggambar, menulis cerita, voice acting, narasi, worldbuilding.  
 * **Teknis:** programming (pipeline, integrasi media, coding untuk animasi atau sistem kreatif).  
@@ -49,7 +49,7 @@
 
 ---
 
-## 4) P — Personality (Gaya Kepribadian & Kolaborasi)
+## P — Personality (Gaya Kepribadian & Kolaborasi)
 
 * **Kolaboratif:** senang bekerja bersama, terutama dalam fase ide dan pengembangan.  
 * **Reflektif:** butuh waktu sendiri untuk recharge dan berpikir mendalam, namun tetap produktif.  
@@ -59,7 +59,7 @@
 
 ---
 
-## 5) E — Experiences (Pengalaman Pembentuk)
+## E — Experiences (Pengalaman Pembentuk)
 
 * **Sumber belajar:** eksplorasi otodidak dari video YouTube dan proyek di GitHub.  
 * **Proses hidup:** tanpa titik balik tunggal; bersifat pragmatis, dinamis, dan bereksperimen terus-menerus.  
@@ -70,7 +70,7 @@
 
 ---
 
-## 6) Piagam Diri (Self-Charter)
+## Piagam Diri (Self-Charter)
 
 **Misi Hidup:** Mengungkapkan keindahan dan pelajaran hidup melalui karya seni dan teknologi yang menggugah pemahaman diri dan empati antarindividu.  
 **Nilai Inti:** kreativitas, empati, refleksi, keaslian, dan kolaborasi.  
@@ -81,13 +81,13 @@
 
 ---
 
-## 7) Narasi 90 Detik (Elevator Pitch)
+## Narasi 90 Detik (Elevator Pitch)
 
 “Saya Rhio Bimo P. S — seorang kreator yang menjembatani seni, teknologi, dan empati. Karunia saya adalah kreativitas: menciptakan karya yang membawa kejutan emosional dan membuka perspektif baru. Saya percaya setiap orang memiliki cara berpikir unik, dan melalui ilustrasi, cerita, serta eksperimen digital, saya ingin membantu mereka memahami diri sendiri dan orang lain. Saya bekerja secara kolaboratif, reflektif, dan visioner — selalu mencari keindahan dalam hal-hal sederhana. Misi saya sederhana: menghadirkan karya yang membuat orang berhenti sejenak, merenung, lalu tersenyum dengan pemahaman baru tentang hidup dan diri mereka.”
 
 ---
 
-## 8) Service-Fit Map (Tempat Saya Paling Berdampak)
+## Service-Fit Map (Tempat Saya Paling Berdampak)
 
 * **Kreatif:** pembuatan ilustrasi, narasi, dan desain karakter yang menyampaikan pesan reflektif.  
 * **Teknologis:** pengembangan pipeline, tools, dan sistem kreatif (misalnya untuk animasi, game, atau musik).  
@@ -96,7 +96,7 @@
 
 ---
 
-## 9) Evidences (Artefak & Tautan)
+## Evidences (Artefak & Tautan)
 
 * [Proyek GitHub](https://github.com/Cola1000) 
 * [YouTube](https://www.youtube.com/@rhio_bimo) 
@@ -105,7 +105,7 @@
 
 ---
 
-## 10) Rencana Aksi 90 Hari (SMART)
+## Rencana Aksi 90 Hari (SMART)
 
 1. **Menyusun portofolio lintas media (gambar, narasi, audio).**  
    *Outcome:* satu portofolio digital lengkap. *Due:* 30 hari.  
@@ -118,7 +118,7 @@
 
 ---
 
-## 11) SHAPE ↔ CPMK (Interpersonal & Public Communication)
+## SHAPE ↔ CPMK (Interpersonal & Public Communication)
 
 | CPMK | Keterkaitan dengan SHAPE | Contoh Implementasi |
 |------|---------------------------|----------------------|
@@ -129,21 +129,7 @@
 
 ---
 
-## 12) Self-Assessment Rubrik UTS-4
-
-| Kriteria                | Deskripsi                      | Skor (1–5) |
-| ----------------------- | ------------------------------ | ---------: |
-| Kelengkapan SHAPE       | S-H-A-P-E jelas & terisi       | 5           |
-| Koherensi Piagam Diri   | misi-nilai-peran konsisten     | 4           |
-| Narasi 90 detik         | ringkas, kuat, mengundang aksi | 4           |
-| Evidence & Aksi 90 hari | tautan bukti & rencana SMART   | 5           |
-
-**Tingkat:** A (≥85%); B (70–84%); C (60–69%); D (50–59%); E (<50%)
-**Total (maks 20):** 18 -> 0.9 (A)  
-
----
-
-## 13) Versi Ultra-Ringkas (≤140 kata)
+## Versi Ultra-Ringkas (≤140 kata)
 
 “Saya Rhio Bimo P. S, kreator yang memadukan seni, teknologi, dan empati. Saya percaya setiap karya harus menyampaikan makna dan membantu orang memahami diri serta sesama. Karunia saya adalah kreativitas dan kemampuan melihat keindahan di balik hal sederhana. Saya berkarya melalui ilustrasi, narasi, dan eksperimen digital yang menyentuh sisi emosional manusia. Misi saya sederhana: menciptakan kejutan kecil yang membuat orang merenung dan menemukan versi terbaik dari dirinya. Dalam 90 hari ke depan, saya akan membangun portofolio lintas media, membuat proyek kreatif terpadu, berkolaborasi, dan menulis refleksi untuk meneguhkan arah karya dan panggilan saya.”
 
