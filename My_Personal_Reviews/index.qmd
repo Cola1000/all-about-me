@@ -1,7 +1,5 @@
-## UTS-5 My Personal Reviews
+# UTS-5 My Personal Reviews
 ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang diberikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](./Self-Assessment_UTS-1_s_d__UTS-5.csv).
-
-# Hasil Self-Assessment UTS (URL: cola1000.github.io/all-about-me)
 
 ## Identifikasi
 
