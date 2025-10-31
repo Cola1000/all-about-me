@@ -111,10 +111,11 @@ Berdasarkan keseluruhan asesmen, Sdr. Rhio Bimo Prakoso S telah mencapai **Level
 | UTS-5 My Personal Reviews | Pemahaman Konsep Interpersonal |   5 |    5 |           100.0 |
 | UTS-5 My Personal Reviews | Analisis Kritis Pesan          |   5 |    3 |            60.0 |
 | UTS-5 My Personal Reviews | Argumentasi (Logos)            |   5 |    4 |            80.0 |
-| UTS-5 My Personal Reviews | Etos & Empati                  |   5 |    2 |            40.0 |
-| UTS-5 My Personal Reviews | Rekomendasi Perbaikan          |   5 |    2 |            40.0 |
+| UTS-5 My Personal Reviews | Etos & Empati                  |   5 |    4 |            80.0 |
+| UTS-5 My Personal Reviews | Rekomendasi Perbaikan          |   5 |    4 |            80.0 |
 
----
+
+Total: 93/105 = 88.57
 
 ---
 
@@ -128,7 +129,11 @@ Berdasarkan keseluruhan asesmen, Sdr. Rhio Bimo Prakoso S telah mencapai **Level
 | UTS-4 My SHAPE | 20 | 20 | 100.0% |
 | UTS-5 My Personal Reviews | 16 | 25 | 64.0% |
 
-CSV lengkap: [Download CSV ringkasan](./Self-Assessment_UTS-1_s_d__UTS-5.csv).
+---
+
+## Excel sheet lengkap (dan peer review) 
+
+> [Download Excel Sheet](./Penilaian.xlsx).
 
 ---
 
