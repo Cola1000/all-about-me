@@ -1,5 +1,102 @@
-## UAS-3 My Opinions
+# UAS-2 My Opinions
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+## Ketidaksetaraan Global di Era Artificial Intelligence
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+
+
+### Sudut Pandang Saya
+
+Opini ini saya sampaikan dari sudut pandang **seorang mahasiswa Bachelor of Computer Science** yang hidup di era digital dan banyak mengamati kondisi dunia melalui **media sosial**. Ini adalah **opini pribadi**, namun saya percaya bahwa pandangan ini memiliki relevansi yang lebih luas ketika membahas penerapan sistem dan teknologi informasi di era Artificial Intelligence (AI).
+
+---
+
+### Opini Inti
+
+**Saya percaya bahwa Artificial Intelligence memiliki potensi besar untuk membantu mengatasi ketidaksetaraan global.**  
+Namun, saya juga meyakini bahwa **ketergantungan berlebihan terhadap AI justru berisiko menciptakan bentuk ketidaksetaraan global yang baru**—masalah lama yang berganti wajah.
+
+Dengan kata lain, AI adalah alat yang berada di persimpangan: ia bisa menjadi jembatan, atau justru jurang.
+
+---
+
+### Informasi yang Membentuk Pandangan Saya
+
+Ketidaksetaraan global, menurut saya, sangat terlihat dari **distribusi kekayaan dan pemahaman**. Bukan hanya soal siapa yang memiliki uang atau teknologi, tetapi siapa yang **memahami, mengendalikan, dan mendapatkan manfaat terbesar** dari sistem yang dibangun.
+
+Dalam konteks AI, di satu sisi teknologi ini tampak inklusif—banyak sistem AI dapat diakses oleh hampir semua orang. Namun di sisi lain, **AI menuntut komputasi yang sangat mahal**, infrastruktur besar, dan modal yang tidak kecil. Hal ini secara alami menguntungkan perusahaan besar dan negara maju, sekaligus memperlebar jurang dengan individu atau kelompok yang tidak memiliki sumber daya serupa.
+
+---
+
+### Nilai-Nilai yang Saya Pegang
+
+Dalam menilai peran AI terhadap ketidaksetaraan global, saya menempatkan nilai-nilai berikut sebagai prioritas:
+
+1. **Tanggung jawab moral**  
+2. **Efisiensi**  
+3. **Kebebasan inovasi**
+
+Bagi saya, kebebasan inovasi tidak boleh berdiri tanpa tanggung jawab moral. Inovasi yang efisien tetapi mengorbankan keadilan hanya akan mempercepat ketimpangan, bukan menyelesaikannya.
+
+---
+
+### Inovasi: Cepat atau Inklusif?
+
+Saya lebih memilih **inovasi yang lebih lambat tetapi inklusif**.  
+Ironisnya, banyak Large Language Model (LLM) dan sistem AI awalnya dikembangkan untuk meningkatkan aksesibilitas. Namun karena logika profit, fokus tersebut bergeser ke pasar mayoritas yang paling menguntungkan.
+
+Menurut saya, **AI seharusnya bisa kembali berfokus pada aksesibilitas dan kelompok inklusif**, bukan hanya pada skala dan keuntungan.
+
+---
+
+### Perasaan dan Intuisi Pribadi
+
+Secara emosional, yang paling saya rasakan adalah **ketakutan terhadap ketergantungan manusia pada AI**.  
+Ada kekhawatiran bahwa manusia mulai memperlakukan AI sebagai solusi “ajaib” untuk segala hal—padahal tidak semua masalah bersifat teknis.
+
+Saya sering merasa:  
+
+> *“Teknologi ini memang keren… tapi sepertinya bukan untuk semua orang.”*
+
+Perasaan ini sangat terasa dalam dunia seni, khususnya bagi para artist, di mana karya mereka diambil dan digunakan sebagai data pelatihan AI tanpa pengetahuan atau izin. Dalam konteks ini, AI tidak terasa inklusif, melainkan eksploitatif.
+
+---
+
+### Pengalaman Pribadi
+
+Dari pengalaman saya sendiri, ketidaksetaraan dalam AI paling jelas terlihat dari fakta bahwa **perusahaan besar jauh lebih diuntungkan dibandingkan individu biasa**.  
+Padahal, menurut saya, idealnya justru sebaliknya: teknologi seharusnya memperkuat individu, bukan hanya institusi besar.
+
+Saya merasa **beruntung dan terbantu** oleh AI, tetapi pada saat yang sama, saya berharap bahwa **“AI bubble” suatu saat akan meledak**—bukan untuk menghancurkan AI, melainkan untuk mengoreksi arah dan ekspektasi yang terlalu berlebihan.
+
+---
+
+### Peran Ideal AI Menurut Saya
+
+Menurut saya, AI seharusnya berperan sebagai:
+
+- **Alat pembantu**, terutama dalam hal aksesibilitas  
+- **Alat riset ilmiah**, dengan tujuan objektif untuk kemajuan manusia  
+
+AI **bukan** alat untuk:
+- Menggantikan kreativitas dan jiwa seni manusia  
+- Menjadi solusi “magic” yang menghapus kompleksitas masalah sosial  
+
+---
+
+### Kesiapan Mengubah Opini
+
+Saya terbuka untuk mengubah atau merevisi opini ini di masa depan, **jika terdapat dampak nyata** yang menunjukkan bahwa AI benar-benar mampu mengurangi ketidaksetaraan secara sistemik dan berkelanjutan.
+
+Saya lebih takut **tidak memiliki opini sama sekali** daripada memiliki opini yang salah. Manusia diciptakan dengan ego dan kebutuhan untuk didengar. Bagi saya, beropini adalah bagian dari menjadi manusia—selama kita siap merevisinya.
+
+---
+
+### Penutup: Harapan Saya
+
+Harapan saya terhadap masa depan ketidaksetaraan global di era AI adalah sederhana namun berat:  
+
+> **Semoga AI tidak hanya menjadi simbol kecanggihan,  
+> tetapi juga bukti bahwa manusia masih mampu memilih keadilan  
+> di tengah efisiensi dan kekuatan teknologi.**
+
+Opini ini bukan kesimpulan akhir, melainkan bagian dari proses berpikir menuju *beautiful mind*—pikiran yang berani bersuara, namun tetap siap berubah.  
