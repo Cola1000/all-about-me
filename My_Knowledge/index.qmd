@@ -1,7 +1,172 @@
-## UAS-4 My Knowledge
+# UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+## Ketidaksetaraan Global di Era Artificial Intelligence
+
+### Hakikat Pengetahuan
+
+Dalam konteks ketidaksetaraan global di era Artificial Intelligence (AI), **pengetahuan berfungsi sebagai deskripsi terstruktur atas realitas** yang mencakup distribusi sumber daya, akses teknologi, serta kapasitas komputasi yang tidak merata.
+
+Realitas utama yang dideskripsikan oleh pengetahuan ini meliputi:
+- distribusi sumber daya ekonomi,
+- akses terhadap teknologi dan infrastruktur digital,
+- kapasitas komputasi (compute),
+- serta kesenjangan pemahaman (knowledge gap).
+
+Isu ini tidak dapat dipahami melalui satu jenis pengetahuan saja, melainkan merupakan **kombinasi pengetahuan alam, sosial, dan aplikatif**, yang saling berinteraksi dalam sistem global.
+
+---
+
+### Jenis Pengetahuan dalam Ketidaksetaraan AI
+
+#### Pengetahuan Alam
+
+Pengetahuan alam berperan pada lapisan fisik dan teknis dari AI, antara lain:
+- komputasi dan kompleksitas pemrosesan,
+- konsumsi energi,
+- hardware (GPU, accelerator),
+- jaringan dan bandwidth,
+- data center sebagai infrastruktur fisik utama.
+
+Faktor-faktor ini menentukan **siapa yang mampu membangun, menjalankan, dan menskalakan AI**, sehingga secara langsung memengaruhi ketidaksetaraan.
+
+---
+
+#### Pengetahuan Sosial
+
+Pengetahuan sosial menjelaskan **mengapa** ketimpangan tersebut terjadi dan dipertahankan, terutama melalui:
+- ekonomi politik,
+- regulasi teknologi,
+- relasi kuasa antara negara maju dan berkembang,
+- kepentingan korporasi besar.
+
+Pada lapisan ini, AI tidak lagi netral, melainkan menjadi bagian dari struktur kekuasaan global.
+
+---
+
+#### Pengetahuan Aplikatif
+
+Pengetahuan aplikatif berada pada titik temu antara manusia sosial dan sistem teknologis.  
+Dalam konteks ini, **rekayasa sistem dan teknologi informasi** berperan sebagai alat untuk:
+- mengubah kapasitas kerja manusia menjadi kekuatan sistemik,
+- memindahkan “beban” ketidaksetaraan dari titik ketidakberdayaan menuju solusi yang dapat dioperasionalkan,
+- merancang sistem yang menjembatani keterbatasan akses dan pengetahuan.
+
+---
+
+### Klasifikasi Pengetahuan Berdasarkan Taksonomi Bloom
+
+#### Level 1 — Remember  
+Pengetahuan dasar mencakup:
+- definisi ketidaksetaraan global sebagai pelebaran jarak akses dan distribusi manfaat,
+- pemahaman bahwa tidak semua permasalahan dapat dan seharusnya diselesaikan dengan AI.
+
+---
+
+#### Level 2 — Understand  
+Ketidaksetaraan global di era AI dapat diklasifikasikan ke dalam beberapa dimensi:
+- ekonomi,
+- teknologi,
+- budaya (misalnya hedonisme dan konsumsi teknologi),
+- pengetahuan,
+- data.
+
+Klasifikasi ini membantu memahami bahwa ketimpangan bersifat multidimensional.
+
+---
+
+#### Level 3 — Apply  
+Dengan menerapkan pemahaman tersebut, dapat diprediksi bahwa **jika tren AI saat ini berlanjut tanpa koreksi**, maka:
+- ketergantungan manusia terhadap AI akan meningkat,
+- ketimpangan akan melebar,
+- dan fokus penggunaan AI akan bergeser dari riset menuju tujuan rekreasional dan komersial.
+
+---
+
+#### Level 4 — Analyze  
+AI dapat sekaligus mengurangi dan menciptakan ketidaksetaraan karena:
+- tingginya kebutuhan komputasi dan energi,
+- sentralisasi data dan model,
+- dominasi negara dan perusahaan besar.
+
+Fenomena ini menyerupai **“The Second Space Race”**, di mana inovasi objektif yang bermanfaat bagi manusia justru berubah menjadi ajang pamer kekuatan dan pemborosan sumber daya.
+
+---
+
+#### Level 5 — Synthesize  
+Pada tahap sintesis, elemen-elemen tersebut dapat disusun menjadi pemahaman bahwa:
+
+> Ketidaksetaraan global di era AI bukan semata akibat teknologi, melainkan hasil interaksi antara infrastruktur fisik, struktur sosial, dan arah rekayasa sistem.
+
+AI adalah katalis—bukan akar masalah—yang mempercepat dinamika ketimpangan yang sudah ada.
+
+---
+
+#### Level 6 — Evaluate  
+Dari sudut pandang evaluatif:
+- bagi perusahaan besar, AI bernilai positif karena efisiensi dan pemotongan biaya,
+- bagi masyarakat luas, AI cenderung bernilai negatif karena berkurangnya lapangan kerja dan meningkatnya ketergantungan sistemik.
+
+Nilai AI bersifat **asimetris**, tergantung posisi aktor dalam sistem.
+
+---
+
+#### Level 7 — Create  
+Sebagai entitas baru, dapat dirancang **kerangka sistem AI berbasis aksesibilitas dan literasi pengetahuan**, yang:
+- memprioritaskan distribusi pengetahuan dibanding akumulasi model,
+- menempatkan AI sebagai alat pendukung manusia, bukan pengganti.
+
+---
+
+### Knowledge Maps
+
+#### Primitive Knowledge Map
+
+Node utama dalam peta pengetahuan primitif meliputi:
+- AI
+- Komputasi
+- Data
+- Kekayaan
+- Budaya
+- Ekonomi
+- Sosial
+- Pengetahuan (Knowledge)
+
+Peta ini berfungsi sebagai **badan pengetahuan deklaratif** tentang “apa” yang membentuk ketidaksetaraan global di era AI.
+
+---
+
+#### Problem-Solving Knowledge Map
+
+Masalah utama yang dapat ditangani secara rekayasa adalah:
+
+> **Keterbatasan akses dan pemahaman terhadap AI.**
+
+Secara garis besar:
+- **Input:** keterbatasan akses teknologi dan literasi,
+- **Proses:** rekayasa sistem pembelajaran dan distribusi pengetahuan,
+- **Output:** peningkatan kapasitas manusia tanpa ketergantungan berlebih pada AI.
+
+---
+
+### Produk Pengetahuan
+
+Produk pengetahuan yang paling relevan untuk topik ini meliputi:
+- Peta Pengetahuan Primitif,
+- Peta Pemecahan Masalah,
+- dan jurnal pembelajar reflektif.
+
+Produk-produk ini merepresentasikan pemahaman yang tidak berhenti pada hafalan, tetapi mampu memandu tindakan rekayasa.
+
+---
+
+### Meta-Pengetahuan (Refleksi)
+
+Pengetahuan tentang struktur ketidaksetaraan dan peran AI telah relatif kuat pada level analisis dan evaluasi.  
+Namun, pengetahuan aplikatif masih perlu dikembangkan lebih lanjut agar mampu menghasilkan solusi sistemik yang nyata dan berkelanjutan.
+
+---
+
+### Penutup
+
+Pengetahuan tentang ketidaksetaraan global di era Artificial Intelligence berfungsi sebagai **cetak biru (blueprint)** bagi rekayasa sistem.  
+Dengan pengetahuan yang terstruktur, manusia dapat mengarahkan kekuatan teknologi bukan untuk sekadar menunjukkan kecanggihan, tetapi untuk memindahkan beban sosial menuju arah yang lebih adil dan bermakna.
