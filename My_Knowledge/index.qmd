@@ -1,6 +1,25 @@
 # UAS-3 My Knowledge
 
+![Study](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNmbGcwM2w3eGcxcHhudWVudWNoZ2pzZXQxcGc2MW8ybGdxcW1lZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
+
 ## Ketidaksetaraan Global di Era Artificial Intelligence
+
+```{mermaid}
+mindmap
+  root(("🧠 Pengetahuan<br/>Ketidaksetaraan AI"))
+    🌍 Pengetahuan Alam
+      💻 Komputasi
+      ⚡ Energi
+      📡 Hardware
+    👥 Pengetahuan Sosial
+      💰 Ekonomi Politik
+      📜 Regulasi
+      ⚖️ Relasi Kuasa
+    🔧 Pengetahuan Aplikatif
+      🛠️ Rekayasa Sistem
+      🎯 Solusi Operasional
+      🌉 Bridging Gap
+```
 
 ### Hakikat Pengetahuan
 
@@ -17,6 +36,38 @@ Isu ini tidak dapat dipahami melalui satu jenis pengetahuan saja, melainkan meru
 ---
 
 ### Jenis Pengetahuan dalam Ketidaksetaraan AI
+
+```{mermaid}
+graph TB
+    subgraph "🌍 Pengetahuan Alam (Natural)"
+    N1["💻 Komputasi & Kompleksitas"]
+    N2["⚡ Konsumsi Energi"]
+    N3["📡 Hardware (GPU)"]
+    N4["🏛️ Data Center"]
+    end
+    
+    subgraph "👥 Pengetahuan Sosial (Social)"
+    S1["💰 Ekonomi Politik"]
+    S2["📜 Regulasi Teknologi"]
+    S3["⚖️ Relasi Kuasa Global"]
+    S4["🏢 Kepentingan Korporasi"]
+    end
+    
+    subgraph "🔧 Pengetahuan Aplikatif (Applied)"
+    A1["🛠️ Rekayasa Sistem"]
+    A2["🌉 Bridging Gaps"]
+    A3["🎯 Solusi Operasional"]
+    end
+    
+    N1 & N2 & N3 & N4 --> Core["Ketidaksetaraan AI"]
+    S1 & S2 & S3 & S4 --> Core
+    Core --> A1 & A2 & A3
+    
+    style Core fill:#e74c3c,stroke:#c0392b,stroke-width:4px,color:#fff
+    style N1 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style S1 fill:#9b59b6,stroke:#8e44ad,stroke-width:2px,color:#fff
+    style A1 fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:#fff
+```
 
 #### Pengetahuan Alam
 
@@ -54,6 +105,34 @@ Dalam konteks ini, **rekayasa sistem dan teknologi informasi** berperan sebagai 
 ---
 
 ### Klasifikasi Pengetahuan Berdasarkan Taksonomi Bloom
+
+```{mermaid}
+graph BT
+    L1["📝 Level 1: Remember<br/>Definisi Ketidaksetaraan"]
+    L2["💡 Level 2: Understand<br/>Dimensi Multifaset"]
+    L3["🎯 Level 3: Apply<br/>Prediksi Tren"]
+    L4["🔍 Level 4: Analyze<br/>AI: Solusi atau Masalah?"]
+    L5["🧩 Level 5: Synthesize<br/>Interaksi Sistemik"]
+    L6["⚖️ Level 6: Evaluate<br/>Nilai Asimetris"]
+    L7["✨ Level 7: Create<br/>Kerangka Baru"]
+    
+    L1 --> L2
+    L2 --> L3
+    L3 --> L4
+    L4 --> L5
+    L5 --> L6
+    L6 --> L7
+    
+    style L1 fill:#95a5a6,stroke:#7f8c8d,stroke-width:2px,color:#fff
+    style L2 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style L3 fill:#1abc9c,stroke:#16a085,stroke-width:2px,color:#fff
+    style L4 fill:#f39c12,stroke:#e67e22,stroke-width:2px,color:#fff
+    style L5 fill:#e67e22,stroke:#d35400,stroke-width:2px,color:#fff
+    style L6 fill:#9b59b6,stroke:#8e44ad,stroke-width:2px,color:#fff
+    style L7 fill:#2ecc71,stroke:#27ae60,stroke-width:3px,color:#fff
+```
+
+![Bloom's Taxonomy](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=300&fit=crop)
 
 #### Level 1 — Remember  
 Pengetahuan dasar mencakup:
@@ -95,6 +174,21 @@ Fenomena ini menyerupai **“The Second Space Race”**, di mana inovasi objekti
 #### Level 5 — Synthesize  
 Pada tahap sintesis, elemen-elemen tersebut dapat disusun menjadi pemahaman bahwa:
 
+```{mermaid}
+graph LR
+    I1["🏛️ Infrastruktur<br/>Fisik"] --> Synth["⚡ SINTESIS<br/>Ketidaksetaraan AI"]
+    I2["🏗️ Struktur<br/>Sosial"] --> Synth
+    I3["🔧 Rekayasa<br/>Sistem"] --> Synth
+    
+    Synth --> Result["💡 AI = Katalis<br/>bukan Akar Masalah"]
+    
+    style Synth fill:#9b59b6,stroke:#8e44ad,stroke-width:4px,color:#fff
+    style Result fill:#f39c12,stroke:#e67e22,stroke-width:3px,color:#fff
+    style I1 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style I2 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style I3 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+```
+
 > Ketidaksetaraan global di era AI bukan semata akibat teknologi, melainkan hasil interaksi antara infrastruktur fisik, struktur sosial, dan arah rekayasa sistem.
 
 AI adalah katalis—bukan akar masalah—yang mempercepat dinamika ketimpangan yang sudah ada.
@@ -118,6 +212,32 @@ Sebagai entitas baru, dapat dirancang **kerangka sistem AI berbasis aksesibilita
 ---
 
 ### Knowledge Maps
+
+```{mermaid}
+graph TB
+    subgraph "Primitive Knowledge Map"
+    direction LR
+    PK1["🤖 AI"] --- PK2["💻 Komputasi"]
+    PK2 --- PK3["💾 Data"]
+    PK3 --- PK4["💰 Kekayaan"]
+    PK4 --- PK5["🎭 Budaya"]
+    PK5 --- PK6["📈 Ekonomi"]
+    PK6 --- PK7["👥 Sosial"]
+    PK7 --- PK8["📚 Pengetahuan"]
+    PK8 --- PK1
+    end
+    
+    subgraph "Problem-Solving Map"
+    direction TB
+    PS1["⚠️ Input:<br/>Keterbatasan Akses"] --> PS2["🔧 Proses:<br/>Rekayasa Sistem"]
+    PS2 --> PS3["✅ Output:<br/>Kapasitas Meningkat"]
+    end
+    
+    style PK1 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style PK4 fill:#f39c12,stroke:#e67e22,stroke-width:2px,color:#fff
+    style PK8 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style PS2 fill:#2ecc71,stroke:#27ae60,stroke-width:3px,color:#fff
+```
 
 #### Primitive Knowledge Map
 

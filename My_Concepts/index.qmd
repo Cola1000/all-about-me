@@ -1,6 +1,29 @@
 # UAS-1 My Concepts
 
+![Longing](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ3OG9kY29nZDh5Yzh5MjZsMnI5bTU2dDFzMDZ4YWVhOHRkcmFqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEPS7eSwQA15GSkK2O/giphy.gif)
+
 ## Konsep Ketidaksetaraan Global
+
+```{mermaid}
+flowchart TB
+    A["🌍 Ketidaksetaraan Global"] --> B["💰 Ekonomi"]
+    A --> C["💻 Teknologi"]
+    A --> D["📚 Pendidikan"]
+    A --> E["🏥 Kesehatan"]
+    
+    B --> F["Distribusi Kekayaan Tidak Merata"]
+    C --> G["Digital Divide"]
+    D --> H["Akses Terbatas"]
+    E --> I["Layanan Tidak Adil"]
+    
+    F --> J["⚠️ Ketimpangan Struktural"]
+    G --> J
+    H --> J
+    I --> J
+    
+    style A fill:#e74c3c,stroke:#c0392b,stroke-width:3px,color:#fff
+    style J fill:#e67e22,stroke:#d35400,stroke-width:2px,color:#fff
+```
 
 ### Latar Belakang Masalah
 
@@ -18,6 +41,25 @@ Ketimpangan ini tidak hanya muncul dalam bentuk perbedaan pendapatan dan kekayaa
 > — seperti teknologi, kebijakan, data, dan sumber daya ekonomi —  
 > untuk **mengangkat beban ketimpangan struktural [B]**  
 > yang membatasi akses sebagian besar populasi dunia terhadap kesejahteraan, peluang, dan martabat hidup yang setara.
+
+```{mermaid}
+graph LR
+    K["⚡ Kekuatan Sistem Global<br/>(K)"] --> L["🔧 Logika Mesin Abstrak"]
+    L --> B["📊 Beban Ketimpangan<br/>(B)"]
+    
+    K1["🤖 Teknologi AI"] --> K
+    K2["📜 Kebijakan"] --> K
+    K3["💾 Data"] --> K
+    K4["💵 Sumber Daya Ekonomi"] --> K
+    
+    B --> B1["✅ Kesejahteraan Merata"]
+    B --> B2["🎯 Peluang Setara"]
+    B --> B3["👥 Martabat Hidup"]
+    
+    style L fill:#3498db,stroke:#2980b9,stroke-width:3px,color:#fff
+    style K fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:#fff
+    style B fill:#9b59b6,stroke:#8e44ad,stroke-width:2px,color:#fff
+```
 
 Konsep ini tidak bertujuan untuk menjelaskan seluruh detail fenomena ketimpangan, melainkan menyaring esensi dari masalah: **ketidakseimbangan distribusi manfaat kemajuan manusia**.
 
@@ -53,17 +95,59 @@ Setiap ide praktis tersebut mewarisi kualitas dari konsep induknya: **keadilan, 
 
 ### Konsep sebagai Persimpangan Jalan
 
+![Decision Path](https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=800&h=300&fit=crop)
+
 Konsep Ketidaksetaraan Global dapat dipandang sebagai **persimpangan jalan pemikiran**, yang membuka berbagai arah tindakan:
 
-- Jalan eksklusif: teknologi hanya melayani pasar dan elite global  
-- Jalan korektif: teknologi digunakan sebagai alat koreksi ketimpangan  
-- Jalan transformatif: sistem global didesain ulang dengan keadilan sebagai prinsip utama  
+```{mermaid}
+graph TB
+    Start["🎯 Konsep Ketidaksetaraan Global"] --> Choice{"Pilihan Jalan"}
+    
+    Choice -->|"❌ Eksklusif"| Path1["💼 Teknologi untuk<br/>Elite & Pasar"]
+    Choice -->|"⚖️ Korektif"| Path2["🔧 Teknologi sebagai<br/>Alat Koreksi"]
+    Choice -->|"✨ Transformatif"| Path3["🌟 Desain Ulang<br/>Sistem Global"]
+    
+    Path1 --> R1["📈 Ketimpangan Melebar"]
+    Path2 --> R2["⚖️ Ketimpangan Berkurang"]
+    Path3 --> R3["🌈 Keadilan Sistemik"]
+    
+    style Start fill:#34495e,stroke:#2c3e50,stroke-width:3px,color:#fff
+    style Path1 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style Path2 fill:#f39c12,stroke:#e67e22,stroke-width:2px,color:#fff
+    style Path3 fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:#fff
+    style Choice fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+```
+
+- **Jalan eksklusif:** teknologi hanya melayani pasar dan elite global  
+- **Jalan korektif:** teknologi digunakan sebagai alat koreksi ketimpangan  
+- **Jalan transformatif:** sistem global didesain ulang dengan keadilan sebagai prinsip utama  
 
 Konsep ini membantu memilih jalan mana yang akan ditempuh, terutama dalam situasi di mana tidak ada rutinitas atau solusi siap pakai.
 
 ---
 
 ### Analogi untuk Memperjelas
+
+```{mermaid}
+graph TB
+    Root["🌳 KONSEP<br/>Ketidaksetaraan Global<br/>(Pohon Induk)"] --> Branch1["🌿 Cabang: Pendidikan"]
+    Root --> Branch2["🌿 Cabang: Teknologi"]
+    Root --> Branch3["🌿 Cabang: Ekonomi"]
+    
+    Branch1 --> Fruit1["🍎 Sistem AI<br/>untuk Literasi"]
+    Branch1 --> Fruit2["🍎 Platform<br/>Pembelajaran"]
+    
+    Branch2 --> Fruit3["🍊 Kebijakan<br/>Data Terbuka"]
+    Branch2 --> Fruit4["🍊 Infrastruktur<br/>Inklusif"]
+    
+    Branch3 --> Fruit5["🍋 Redistribusi<br/>Sumber Daya"]
+    Branch3 --> Fruit6["🍋 Akses Modal<br/>Adil"]
+    
+    style Root fill:#8b4513,stroke:#654321,stroke-width:4px,color:#fff
+    style Branch1 fill:#27ae60,stroke:#229954,stroke-width:2px,color:#fff
+    style Branch2 fill:#27ae60,stroke:#229954,stroke-width:2px,color:#fff
+    style Branch3 fill:#27ae60,stroke:#229954,stroke-width:2px,color:#fff
+```
 
 Jika **ide-ide praktis** adalah *buah* seperti kebijakan, aplikasi, atau sistem AI tertentu,  
 maka **konsep Ketidaksetaraan Global** adalah *pohon induk* yang:

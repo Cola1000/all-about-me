@@ -1,8 +1,23 @@
 # UAS-2 My Opinions
 
+![Perspective](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F1NWJ2OWU1cXcxOWU4YzhlaHdqMWljYnN5dGIyYndjZXE5Y3BsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NrbYHPliFi2UerJ6tw/giphy.gif)
+
 ## Ketidaksetaraan Global di Era Artificial Intelligence
 
-
+```{mermaid}
+mindmap
+  root(("🗣️ Opini Saya<br/>Mahasiswa CS"))
+    ["⚠️ AI: Jembatan atau Jurang?"]
+      ["✅ Potensi Membantu"]
+      ["❌ Risiko Ketergantungan"]
+    ["📊 Ketidaksetaraan"]
+      ["💰 Distribusi Kekayaan"]
+      ["🧠 Distribusi Pemahaman"]
+    ["🎯 Nilai Prioritas"]
+      ["1. Tanggung Jawab Moral"]
+      ["2. Efisiensi"]
+      ["3. Kebebasan Inovasi"]
+```
 
 ### Sudut Pandang Saya
 
@@ -31,6 +46,29 @@ Dalam konteks AI, di satu sisi teknologi ini tampak inklusif—banyak sistem AI 
 
 Dalam menilai peran AI terhadap ketidaksetaraan global, saya menempatkan nilai-nilai berikut sebagai prioritas:
 
+```{mermaid}
+graph TB
+    subgraph "🎯 Hierarki Nilai"
+    V1["⭐ 1. Tanggung Jawab Moral"]
+    V2["⚡ 2. Efisiensi"]
+    V3["🚀 3. Kebebasan Inovasi"]
+    end
+    
+    V1 --> Link["🔗 Harus Berjalan Bersama"]
+    V2 --> Link
+    V3 --> Link
+    
+    Link --> Result["⚖️ Inovasi yang Bertanggung Jawab"]
+    
+    Warning["⚠️ Kebebasan tanpa Moral"] -.->|"Bahaya"| Danger["📉 Ketimpangan Melebar"]
+    
+    style V1 fill:#e74c3c,stroke:#c0392b,stroke-width:3px,color:#fff
+    style V2 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style V3 fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:#fff
+    style Result fill:#f39c12,stroke:#e67e22,stroke-width:2px,color:#fff
+    style Danger fill:#95a5a6,stroke:#7f8c8d,stroke-width:2px
+```
+
 1. **Tanggung jawab moral**  
 2. **Efisiensi**  
 3. **Kebebasan inovasi**
@@ -41,6 +79,29 @@ Bagi saya, kebebasan inovasi tidak boleh berdiri tanpa tanggung jawab moral. Ino
 
 ### Inovasi: Cepat atau Inklusif?
 
+```{mermaid}
+graph LR
+    subgraph "Option A: Inovasi Cepat"
+    A1["🚀 Kecepatan Tinggi"] --> A2["💰 Profit-Driven"]
+    A2 --> A3["🚫 Eksklusif"]
+    end
+    
+    subgraph "Option B: Inovasi Inklusif"
+    B1["🐢 Lebih Lambat"] --> B2["🤝 Akses untuk Semua"]
+    B2 --> B3["✅ Berkelanjutan"]
+    end
+    
+    Choice{"Pilihan Saya"}
+    Choice -.->|"Tidak dipilih"| A1
+    Choice ==>|" ⭐ Dipilih"| B1
+    
+    style B1 fill:#2ecc71,stroke:#27ae60,stroke-width:4px,color:#fff
+    style B2 fill:#27ae60,stroke:#229954,stroke-width:2px,color:#fff
+    style B3 fill:#27ae60,stroke:#229954,stroke-width:2px,color:#fff
+    style A3 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style Choice fill:#3498db,stroke:#2980b9,stroke-width:3px,color:#fff
+```
+
 Saya lebih memilih **inovasi yang lebih lambat tetapi inklusif**.  
 Ironisnya, banyak Large Language Model (LLM) dan sistem AI awalnya dikembangkan untuk meningkatkan aksesibilitas. Namun karena logika profit, fokus tersebut bergeser ke pasar mayoritas yang paling menguntungkan.
 
@@ -49,7 +110,23 @@ Menurut saya, **AI seharusnya bisa kembali berfokus pada aksesibilitas dan kelom
 ---
 
 ### Perasaan dan Intuisi Pribadi
+![Emotions](https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=800&h=300&fit=crop)
 
+```{mermaid}
+graph TD
+    E1["😨 Ketakutan<br/>Ketergantungan AI"] --> C["Perasaan Saya"]
+    E2["🤔 Kekhawatiran<br/>Solusi 'Ajaib'"] --> C
+    E3["🎨 Empati<br/>untuk Artist"] --> C
+    E4["😕 Dilema<br/>Terbantu vs Khawatir"] --> C
+    
+    C --> Quote["“Teknologi ini keren...<br/>tapi bukan untuk semua orang”"]
+    
+    style E1 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style E2 fill:#f39c12,stroke:#e67e22,stroke-width:2px,color:#fff
+    style E3 fill:#9b59b6,stroke:#8e44ad,stroke-width:2px,color:#fff
+    style E4 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style Quote fill:#34495e,stroke:#2c3e50,stroke-width:3px,color:#fff
+```
 Secara emosional, yang paling saya rasakan adalah **ketakutan terhadap ketergantungan manusia pada AI**.  
 Ada kekhawatiran bahwa manusia mulai memperlakukan AI sebagai solusi “ajaib” untuk segala hal—padahal tidak semua masalah bersifat teknis.
 
@@ -71,7 +148,31 @@ Saya merasa **beruntung dan terbantu** oleh AI, tetapi pada saat yang sama, saya
 ---
 
 ### Peran Ideal AI Menurut Saya
-
+```{mermaid}
+graph TB
+    subgraph "✅ AI SEHARUSNYA"
+    Good1["🤝 Alat Pembantu<br/>Aksesibilitas"]
+    Good2["🔬 Alat Riset<br/>Ilmiah"]
+    end
+    
+    subgraph "❌ AI BUKAN UNTUK"
+    Bad1["🎨 Menggantikan<br/>Kreativitas Manusia"]
+    Bad2["✨ Solusi 'Magic'<br/>untuk Semua Masalah"]
+    end
+    
+    AI{{"🤖 Artificial<br/>Intelligence"}}
+    
+    AI ==>|"Gunakan"| Good1
+    AI ==>|"Gunakan"| Good2
+    AI -.->|"Hindari"| Bad1
+    AI -.->|"Hindari"| Bad2
+    
+    style Good1 fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:#fff
+    style Good2 fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:#fff
+    style Bad1 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style Bad2 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style AI fill:#3498db,stroke:#2980b9,stroke-width:4px,color:#fff
+```
 Menurut saya, AI seharusnya berperan sebagai:
 
 - **Alat pembantu**, terutama dalam hal aksesibilitas  

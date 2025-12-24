@@ -1,6 +1,26 @@
 # UAS-4 My Innovations
 
+![Innovation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJjdmZxdGw4MmZtZHRlbzV5emNxZWxkcG51aGVub3M5bWYwaTB2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SN7VRxzzcby9nyKJV/giphy.gif)
+
 ## Value Innovation in the Era of Artificial Intelligence
+
+```{mermaid}
+graph TB
+    subgraph "🎯 Orientasi Nilai Luhur"
+    V1["♻️ Keberlanjutan"]
+    V2["📚 Kejujuran<br/>Intelektual"]
+    V3["⚖️ Tanggung Jawab<br/>Moral"]
+    end
+    
+    V1 & V2 & V3 --> Foundation["🏛️ Fondasi Inovasi Nilai"]
+    Foundation --> Innovation["🚀 Value Innovation<br/>di Era AI"]
+    
+    style V1 fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:#fff
+    style V2 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style V3 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style Foundation fill:#9b59b6,stroke:#8e44ad,stroke-width:3px,color:#fff
+    style Innovation fill:#f39c12,stroke:#e67e22,stroke-width:4px,color:#fff
+```
 
 ### Orientasi Nilai Luhur
 
@@ -20,6 +40,22 @@ Saya meyakini bahwa inovasi tanpa orientasi nilai hanya akan menghasilkan efisie
 
 Dalam praktik pengembangan AI saat ini, nilai yang paling sering hilang adalah:
 
+```{mermaid}
+graph LR
+    AI["🤖 AI Saat Ini"] -.->|"Menghilangkan"| Lost1["🎨 Seni &<br/>Jiwa Kesenian"]
+    AI -.->|"Menghilangkan"| Lost2["👤 Makna Kerja<br/>Manusia"]
+    AI -.->|"Menghilangkan"| Lost3["🧠 Proses<br/>Berpikir"]
+    
+    Lost1 & Lost2 & Lost3 --> Problem["⚠️ Fokus Hanya<br/>pada Hasil"]
+    Problem --> Impact["📉 Penurunan Apresiasi<br/>Karya Manusia"]
+    
+    style AI fill:#95a5a6,stroke:#7f8c8d,stroke-width:3px,color:#fff
+    style Lost1 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style Lost2 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style Lost3 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    style Impact fill:#c0392b,stroke:#a93226,stroke-width:3px,color:#fff
+```
+
 - **seni dan jiwa kesenian**,  
 - **makna kerja manusia**,  
 - dan **proses berpikir itu sendiri**.
@@ -29,7 +65,29 @@ AI sering diposisikan sebagai pengganti, bukan pendukung. Hal ini mengikis nilai
 ---
 
 ### Ketidaksetaraan sebagai Kegagalan Pendidikan Nilai
+![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=300&fit=crop)
 
+```{mermaid}
+graph TB
+    Start["👶 Manusia: Malas + Sedikit Pintar"] --> Choice{"Sistem Pendidikan"}
+    
+    Choice -->|"Sehat"| Good["🎯 Dipaksa Berkembang"]
+    Good --> Result1["💡 Pemahaman Meningkat"]
+    
+    Choice -->|"+ AI Tanpa Kontrol"| Bad["⚡ Kemalasan Difasilitasi"]
+    Bad --> Cycle["🔄 Siklus Negatif"]
+    
+    Cycle --> R1["😴 Tetap Malas"]
+    Cycle --> R2["🤷 Tidak Lebih Pintar"]
+    Cycle --> R3["🔗 Ketergantungan Sistemik"]
+    
+    R1 & R2 & R3 --> Final["⚠️ Ketidaksetaraan<br/>Melebar"]
+    
+    style Good fill:#2ecc71,stroke:#27ae60,stroke-width:3px,color:#fff
+    style Bad fill:#e74c3c,stroke:#c0392b,stroke-width:3px,color:#fff
+    style Result1 fill:#27ae60,stroke:#229954,stroke-width:2px,color:#fff
+    style Final fill:#c0392b,stroke:#a93226,stroke-width:3px,color:#fff
+```
 Saya melihat ketidaksetaraan global di era AI terutama sebagai **kegagalan pendidikan**, bukan semata kegagalan teknologi.
 
 Manusia pada dasarnya cenderung malas, namun sedikit pintar. Dalam sistem pendidikan yang sehat, kemalasan tersebut “dipaksa” untuk berkembang menjadi pemahaman. Dengan hadirnya AI, kemalasan itu justru difasilitasi—tanpa diimbangi peningkatan kapasitas berpikir.
@@ -65,6 +123,30 @@ Sebagai mahasiswa, kontribusi nilai yang realistis bukanlah membangun AI baru, m
 
 ### Bentuk Inovasi Nilai: *AI Usage Boundary Model*
 
+```{mermaid}
+graph TB
+    subgraph "AI Usage Boundary Model"
+    Center["👤 Manusia<br/>sebagai Subjek Utama"]
+    
+    Boundary1["✅ Zone 1:<br/>AI sebagai Alat Bantu"]
+    Boundary2["⚠️ Zone 2:<br/>Batas Penggunaan"]
+    Boundary3["🚫 Zone 3:<br/>AI Tidak Tepat"]
+    
+    Center --> Boundary1
+    Boundary1 --> Boundary2
+    Boundary2 --> Boundary3
+    
+    Boundary1 -.-> Ex1["• Aksesibilitas<br/>• Riset<br/>• Otomasi Rutin"]
+    Boundary2 -.-> Ex2["• Kreativitas Terbatas<br/>• Keputusan Etis<br/>• Pembelajaran"]
+    Boundary3 -.-> Ex3["• Seni Murni<br/>• Keputusan Moral<br/>• Pengganti Manusia"]
+    end
+    
+    style Center fill:#2ecc71,stroke:#27ae60,stroke-width:4px,color:#fff
+    style Boundary1 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style Boundary2 fill:#f39c12,stroke:#e67e22,stroke-width:2px,color:#fff
+    style Boundary3 fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+```
+
 Bentuk inovasi nilai yang saya ajukan adalah **AI Usage Boundary Model**.
 
 Model ini bukan untuk melarang AI, melainkan untuk:
@@ -89,7 +171,30 @@ Nilai-nilai ini tidak muncul dari fitur teknis, tetapi dari perubahan cara panda
 ---
 
 ### Value Co-Creation: Semua Terlibat
-
+```{mermaid}
+graph TB
+    subgraph "Value Co-Creation"
+    S1["🎓 Mahasiswa<br/>Reflektor & Perancang"]
+    S2["👨‍🏫 Dosen<br/>Penjaga Arah Nilai"]
+    S3["🏘️ Masyarakat<br/>Penerima Dampak"]
+    S4["👶 Generasi Berikutnya<br/>Pewaris Pengetahuan"]
+    end
+    
+    S1 & S2 & S3 & S4 --> Collab["🤝 Kolaborasi Nilai"]
+    
+    Collab --> Act1["📚 Dipelajari"]
+    Collab --> Act2["❓ Dipertanyakan"]
+    Collab --> Act3["🎁 Diwariskan"]
+    
+    Act1 & Act2 & Act3 --> Impact["✨ Nilai Berkelanjutan"]
+    
+    style Collab fill:#9b59b6,stroke:#8e44ad,stroke-width:4px,color:#fff
+    style Impact fill:#2ecc71,stroke:#27ae60,stroke-width:3px,color:#fff
+    style S1 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style S2 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style S3 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+    style S4 fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+```
 Penciptaan nilai dalam inovasi ini bersifat kolektif.
 
 **Everyone** terlibat:

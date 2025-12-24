@@ -1,2 +1,58 @@
-## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+# UAS-5 My Professional Reviews
+
+![Innovation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk0bGwxemZhaHpwczduMDF3c2tnNmoxZnJ3NXE2M2g1eXhvNXVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif)
+
+## Overview
+
+Halaman ini merangkum ulasan profesional yang saya kumpulkan dan olah dari lembar kerja (XLSX). Data digunakan untuk membuat ringkasan yang lebih mudah dibaca serta dilengkapi tautan unduhan dan sitasi sumber.
+
+## Download Dataset (XLSX)
+
+Anda dapat mengunduh lembar kerja asli di tautan berikut:
+
+- [Download: Professional Reviews (XLSX)](./My_Professional_Review.xlsx)
+
+> Catatan: File ini ikut disalin ke folder output situs sehingga tautan unduhan berfungsi saat dipublikasikan.
+
+## Ringkasan Tabel (Per Sheet)
+
+Berikut ringkasan isi setiap sheet dari lembar kerja, ditampilkan sebagai tabel markdown. Untuk data lengkap dan akurat, silakan unduh file XLSX pada tautan di atas.
+
+### Sheet: UAS_1_My_Concepts
+| ID | Nama | UAS-1_Clarity | UAS-1_Logic | UAS-1_Validity | UAS-1_Usefulness | UAS-1_Rata2 |
+|:---|:-----|:--------------:|:-----------:|:--------------:|:----------------:|:-----------:|
+| 13523123 | Rhio Bimo Prakoso S | 5.0 | 5.0 | 5.0 | 5.0 | 5.00 |
+| 13523135 | Ahmad Syafiq | 4.0 | 5.0 | 4.0 | 5.0 | 4.50 |
+| 13523162 | Fachriza Ahmad Setiyono | 4.0 | 5.0 | 5.0 | 4.0 | 4.50 |
+| 18224126 | Muhamad Radhitya Alamsyah | 4.0 | 5.0 | 4.0 | 5.0 | 4.50 |
+
+### Sheet: UAS_2_My_Opinions
+| ID | Nama | UAS-2_Compelling | UAS-2_Informatif | UAS-2_Persuasif | UAS-2_Engaging | UAS-2_Rata2 |
+|:---|:-----|:----------------:|:----------------:|:----------------:|:--------------:|:-----------:|
+| 13523123 | Rhio Bimo Prakoso S | 5.0 | 5.0 | 5.0 | 5.0 | 5.00 |
+| 13523135 | Ahmad Syafiq | 4.0 | 5.0 | 5.0 | 5.0 | 4.75 |
+| 13523162 | Fachriza Ahmad Setiyono | 5.0 | 4.0 | 4.0 | 5.0 | 4.50 |
+| 18224126 | Muhamad Radhitya Alamsyah | 4.0 | 4.0 | 5.0 | 5.0 | 4.50 |
+
+### Sheet: UAS_3_My_Innovation
+| ID | Nama | UAS-3_Guna | UAS-3_Kebaruan | UAS-3_Desain | UAS-3_Dampak | UAS-3_Rata2 |
+|:---|:-----|:----------:|:-------------:|:-----------:|:------------:|:-----------:|
+| 13523123 | Rhio Bimo Prakoso S | 5.0 | 5.0 | 5.0 | 5.0 | 5.00 |
+| 13523135 | Ahmad Syafiq | 4.0 | 4.0 | 5.0 | 4.0 | 4.25 |
+| 13523162 | Fachriza Ahmad Setiyono | 5.0 | 4.0 | 4.0 | 4.0 | 4.25 |
+| 18224126 | Muhamad Radhitya Alamsyah | 5.0 | 5.0 | 4.0 | 4.0 | 4.50 |
+
+### Sheet: UAS_4_My_Knowledge
+| ID | Nama | UAS-4_Kurasi | UAS-4_Kejelasan | UAS-4_Akurasi | UAS-4_Daya_Guna | UAS-4_Rata2 |
+|:---|:-----|:------------:|:--------------:|:------------:|:--------------:|:-----------:|
+| 13523123 | Rhio Bimo Prakoso S | 5.0 | 5.0 | 5.0 | 5.0 | 5.00 |
+| 13523135 | Ahmad Syafiq | 4.0 | 5.0 | 4.0 | 5.0 | 4.50 |
+| 13523162 | Fachriza Ahmad Setiyono | 5.0 | 4.0 | 5.0 | 4.0 | 4.50 |
+| 18224126 | Muhamad Radhitya Alamsyah | 4.0 | 4.0 | 5.0 | 4.0 | 4.25 |
+
+## Catatan Analisis Singkat
+
+- Data diolah apa adanya dari lembar kerja.
+- Ringkasan di atas menampilkan 10 baris pertama untuk verifikasi cepat.
+- Untuk analisis lanjutan (agregasi per kategori, skor, atau timeline), silakan tambahkan kolom yang relevan pada lembar kerja dan lakukan pengelompokan di sel kode Python.
+
